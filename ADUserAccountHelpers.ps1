@@ -12,6 +12,7 @@ function isEnabled {
 }
 
 function isLocked {
+    
     param (
         [string]$UID
     )
